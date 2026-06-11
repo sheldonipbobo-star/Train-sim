@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.4",
+  "Category": "Simulation",
+  "Description": "Interactive Yamanote Line Train Simulator - An immersive Tokyo train experience",
+  "Modules": [
+    {
+      "Name": "TrainSim",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
