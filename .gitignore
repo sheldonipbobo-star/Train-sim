@@ -1,0 +1,31 @@
+# Unity
+Library/
+Temp/
+obj/
+Builds/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.booproj
+.DS_Store
+
+# Visual Studio
+.vs/
+.vscode/
+*.code-workspace
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
